@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hotabya
 - 👀 I’m interested in Learning new skills.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning C++.
 - 📫 You can reach me on me on the following gmail - hotabya.aman@gmail.com
 
 <!---
